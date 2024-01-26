@@ -1,0 +1,387 @@
+especie,sex,year,fecha,day,estructura,abs,promedio,porcentaje
+Opuntia cantabrigiensis,,2018,26/02/2018,57,Buds,436,10.13953488,
+Opuntia cantabrigiensis,,2018,15/03/2018,74,Buds,1828,42.51162791,
+Opuntia cantabrigiensis,,2018,24/03/2018,83,Buds,1997,46.44186047,
+Opuntia cantabrigiensis,,2018,08/04/2018,98,Buds,1084,25.20930233,
+Opuntia cantabrigiensis,,2018,30/04/2018,120,Buds,90,2.093023256,
+Opuntia cantabrigiensis,,2018,31/05/2018,151,Buds,104,2.418604651,
+Opuntia cantabrigiensis,,2018,04/07/2018,185,Buds,4,0.093023256,
+Opuntia cantabrigiensis,,2018,21/08/2018,233,Buds,0,0,
+Opuntia cantabrigiensis,,2018,11/09/2018,254,Buds,0,0,
+Opuntia cantabrigiensis,,2018,11/10/2018,284,Buds,0,0,
+Opuntia robusta,,2018,11/11/2018,315,Buds,813,17.67391304,
+Opuntia robusta,,2018,15/03/2018,74,Buds,1042,22.65217391,
+Opuntia robusta,,2018,24/03/2018,83,Buds,617,13.41304348,
+Opuntia robusta,,2018,08/04/2018,98,Buds,198,4.304347826,
+Opuntia robusta,,2018,30/04/2018,120,Buds,30,0.652173913,
+Opuntia robusta,,2018,31/05/2018,151,Buds,4,0.086956522,
+Opuntia robusta,,2018,04/07/2018,185,Buds,0,0,
+Opuntia robusta,,2018,21/08/2018,233,Buds,0,0,
+Opuntia robusta,,2018,11/09/2018,254,Buds,0,0,
+Opuntia robusta,,2018,11/10/2018,284,Buds,0,0,
+Opuntia streptacantha,,2018,26/02/2018,57,Buds,248,7.515151515,
+Opuntia streptacantha,,2018,15/03/2018,74,Buds,1508,45.6969697,
+Opuntia streptacantha,,2018,24/03/2018,83,Buds,2227,67.48484848,
+Opuntia streptacantha,,2018,08/04/2018,98,Buds,2237,67.78787879,
+Opuntia streptacantha,,2018,30/04/2018,120,Buds,157,4.757575758,
+Opuntia streptacantha,,2018,31/05/2018,151,Buds,6,0.181818182,
+Opuntia streptacantha,,2018,04/07/2018,185,Buds,3,0.090909091,
+Opuntia streptacantha,,2018,21/08/2018,233,Buds,2,0.060606061,
+Opuntia streptacantha,,2018,11/09/2018,254,Buds,0,0,
+Opuntia streptacantha,,2018,11/10/2018,284,Buds,0,0,
+Opuntia tomentosa,,2018,26/02/2018,57,Buds,0,0,
+Opuntia tomentosa,,2018,15/03/2018,74,Buds,689,14.97826087,
+Opuntia tomentosa,,2018,24/03/2018,83,Buds,2665,57.93478261,
+Opuntia tomentosa,,2018,08/04/2018,98,Buds,5174,112.4782609,
+Opuntia tomentosa,,2018,30/04/2018,120,Buds,1723,37.45652174,
+Opuntia tomentosa,,2018,31/05/2018,151,Buds,16,0.347826087,
+Opuntia tomentosa,,2018,04/07/2018,185,Buds,2,0.043478261,
+Opuntia tomentosa,,2018,21/08/2018,233,Buds,2,0.043478261,
+Opuntia tomentosa,,2018,11/09/2018,254,Buds,0,0,
+Opuntia tomentosa,,2018,11/10/2018,284,Buds,0,0,
+Opuntia cantabrigiensis,,2018,26/02/2018,57,Flowers,0,0,0
+Opuntia cantabrigiensis,,2018,15/03/2018,74,Flowers,4,0.093023256,0.002234637
+Opuntia cantabrigiensis,,2018,24/03/2018,83,Flowers,214,4.976744186,0.119553073
+Opuntia cantabrigiensis,,2018,08/04/2018,98,Flowers,1024,23.81395349,0.572067039
+Opuntia cantabrigiensis,,2018,30/04/2018,120,Flowers,515,11.97674419,0.287709497
+Opuntia cantabrigiensis,,2018,31/05/2018,151,Flowers,27,0.627906977,0.015083799
+Opuntia cantabrigiensis,,2018,04/07/2018,185,Flowers,6,0.139534884,0.003351955
+Opuntia cantabrigiensis,,2018,21/08/2018,233,Flowers,0,0,0
+Opuntia cantabrigiensis,,2018,11/09/2018,254,Flowers,0,0,0
+Opuntia cantabrigiensis,,2018,11/10/2018,284,Flowers,0,0,0
+Opuntia robusta,,2018,26/02/2018,57,Flowers,10,0.217391304,0.005780347
+Opuntia robusta,,2018,15/03/2018,74,Flowers,177,3.847826087,0.102312139
+Opuntia robusta,,2018,24/03/2018,83,Flowers,687,14.93478261,0.397109827
+Opuntia robusta,,2018,08/04/2018,98,Flowers,719,15.63043478,0.415606936
+Opuntia robusta,,2018,30/04/2018,120,Flowers,129,2.804347826,0.074566474
+Opuntia robusta,,2018,31/05/2018,151,Flowers,8,0.173913043,0.004624277
+Opuntia robusta,,2018,04/07/2018,185,Flowers,0,0,0
+Opuntia robusta,,2018,21/08/2018,233,Flowers,0,0,0
+Opuntia robusta,,2018,11/09/2018,254,Flowers,0,0,0
+Opuntia robusta,,2018,11/10/2018,284,Flowers,0,0,0
+Opuntia streptacantha,,2018,26/02/2018,57,Flowers,0,0,0
+Opuntia streptacantha,,2018,15/03/2018,74,Flowers,0,0,0
+Opuntia streptacantha,,2018,24/03/2018,83,Flowers,4,0.121212121,0.001665279
+Opuntia streptacantha,,2018,08/04/2018,98,Flowers,17,0.515151515,0.007077435
+Opuntia streptacantha,,2018,30/04/2018,120,Flowers,1774,53.75757576,0.738551207
+Opuntia streptacantha,,2018,31/05/2018,151,Flowers,544,16.48484848,0.226477935
+Opuntia streptacantha,,2018,04/07/2018,185,Flowers,63,1.909090909,0.026228143
+Opuntia streptacantha,,2018,21/08/2018,233,Flowers,0,0,0
+Opuntia streptacantha,,2018,11/09/2018,254,Flowers,0,0,0
+Opuntia streptacantha,,2018,11/10/2018,284,Flowers,0,0,0
+Opuntia tomentosa,,2018,26/02/2018,57,Flowers,0,0,0
+Opuntia tomentosa,,2018,15/03/2018,74,Flowers,0,0,0
+Opuntia tomentosa,,2018,24/03/2018,83,Flowers,0,0,0
+Opuntia tomentosa,,2018,08/04/2018,98,Flowers,55,1.195652174,0.012919897
+Opuntia tomentosa,,2018,30/04/2018,120,Flowers,135,2.934782609,0.031712474
+Opuntia tomentosa,,2018,31/05/2018,151,Flowers,4063,88.32608696,0.954428001
+Opuntia tomentosa,,2018,04/07/2018,185,Flowers,2,0.043478261,0.000469814
+Opuntia tomentosa,,2018,21/08/2018,233,Flowers,2,0.043478261,0.000469814
+Opuntia tomentosa,,2018,11/09/2018,254,Flowers,0,0,0
+Opuntia tomentosa,,2018,11/10/2018,284,Flowers,0,0,0
+Opuntia cantabrigiensis,,2018,26/02/2018,57,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,,2018,15/03/2018,74,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,,2018,24/03/2018,83,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,,2018,08/04/2018,98,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,,2018,30/04/2018,120,Ripe fruits,1,0.023255814,0.001436782
+Opuntia cantabrigiensis,,2018,31/05/2018,151,Ripe fruits,31,0.720930233,0.04454023
+Opuntia cantabrigiensis,,2018,04/07/2018,185,Ripe fruits,533,12.39534884,0.765804598
+Opuntia cantabrigiensis,,2018,21/08/2018,233,Ripe fruits,83,1.930232558,0.119252874
+Opuntia cantabrigiensis,,2018,11/09/2018,254,Ripe fruits,40,0.930232558,0.057471264
+Opuntia cantabrigiensis,,2018,11/10/2018,284,Ripe fruits,8,0.186046512,0.011494253
+Opuntia cantabrigiensis,,2018,11/11/2018,315,Ripe fruits,0,0,0
+Opuntia robusta,,2018,26/02/2018,57,Ripe fruits,0,0,0
+Opuntia robusta,,2018,15/03/2018,74,Ripe fruits,0,0,0
+Opuntia robusta,,2018,24/03/2018,83,Ripe fruits,0,0,0
+Opuntia robusta,,2018,08/04/2018,98,Ripe fruits,0,0,0
+Opuntia robusta,,2018,30/04/2018,120,Ripe fruits,0,0,0
+Opuntia robusta,,2018,31/05/2018,151,Ripe fruits,41,0.891304348,0.231638418
+Opuntia robusta,,2018,04/07/2018,185,Ripe fruits,109,2.369565217,0.615819209
+Opuntia robusta,,2018,21/08/2018,233,Ripe fruits,26,0.565217391,0.146892655
+Opuntia robusta,,2018,11/09/2018,254,Ripe fruits,1,0.02173913,0.005649718
+Opuntia robusta,,2018,11/10/2018,284,Ripe fruits,0,0,0
+Opuntia robusta,,2018,11/11/2018,315,Ripe fruits,0,0,0
+Opuntia streptacantha,,2018,26/02/2018,57,Ripe fruits,0,0,0
+Opuntia streptacantha,,2018,15/03/2018,74,Ripe fruits,0,0,0
+Opuntia streptacantha,,2018,24/03/2018,83,Ripe fruits,0,0,0
+Opuntia streptacantha,,2018,08/04/2018,98,Ripe fruits,0,0,0
+Opuntia streptacantha,,2018,30/04/2018,120,Ripe fruits,0,0,0
+Opuntia streptacantha,,2018,31/05/2018,151,Ripe fruits,0,0,0
+Opuntia streptacantha,,2018,04/07/2018,185,Ripe fruits,97,2.939393939,0.039835729
+Opuntia streptacantha,,2018,21/08/2018,233,Ripe fruits,1672,50.66666667,0.686652977
+Opuntia streptacantha,,2018,11/09/2018,254,Ripe fruits,560,16.96969697,0.229979466
+Opuntia streptacantha,,2018,11/10/2018,284,Ripe fruits,106,3.212121212,0.043531828
+Opuntia tomentosa,,2018,11/11/2018,315,Ripe fruits,0,0,0
+Opuntia tomentosa,,2018,15/03/2018,74,Ripe fruits,0,0,0
+Opuntia tomentosa,,2018,24/03/2018,83,Ripe fruits,0,0,0
+Opuntia tomentosa,,2018,08/04/2018,98,Ripe fruits,0,0,0
+Opuntia tomentosa,,2018,30/04/2018,120,Ripe fruits,0,0,0
+Opuntia tomentosa,,2018,31/05/2018,151,Ripe fruits,3,0.065217391,0.000304445
+Opuntia tomentosa,,2018,04/07/2018,185,Ripe fruits,43,0.934782609,0.00436371
+Opuntia tomentosa,,2018,21/08/2018,233,Ripe fruits,2021,43.93478261,0.205094378
+Opuntia tomentosa,,2018,11/09/2018,254,Ripe fruits,4724,102.6956522,0.479399229
+Opuntia tomentosa,,2018,11/10/2018,284,Ripe fruits,2975,64.67391304,0.301907855
+Opuntia tomentosa,,2018,11/11/2018,315,Ripe fruits,88,8,0.008930384
+Opuntia cantabrigiensis,,2021,04/05/2021,124,Buds,48,1.090909091,
+Opuntia cantabrigiensis,,2021,04/05/2021,124,Flowers,23,0.522727273,0.194915254
+Opuntia cantabrigiensis,,2021,04/05/2021,124,Ripe fruits,0,16.46511628,0
+Opuntia robusta,,2021,04/05/2021,124,Buds,8,0.170212766,
+Opuntia robusta,,2021,04/05/2021,124,Flowers,7,0.14893617,0.2
+Opuntia robusta,,2021,04/05/2021,124,Ripe fruits,0,0,0
+Opuntia robusta,,2021,04/05/2021,124,Unripe Ripe fruits ,203,4.319148936,
+Opuntia streptacantha,,2021,04/05/2021,124,Buds,85,2.5,
+Opuntia streptacantha,,2021,04/05/2021,124,Flowers,53,1.558823529,0.524752475
+Opuntia streptacantha,,2021,04/05/2021,124,Unripe Ripe fruits ,1147,33.73529412,
+Opuntia streptacantha,,2021,04/05/2021,124,Ripe fruits,0,0,0
+Opuntia tomentosa,,2021,04/05/2021,124,Buds,237,5.266666667,
+Opuntia tomentosa,,2021,04/05/2021,124,Flowers,249,5.413043478,0.573732719
+Opuntia tomentosa,,2021,04/05/2021,124,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,,2021,12/05/2021,132,Buds,38,0.863636364,
+Opuntia cantabrigiensis,,2021,12/05/2021,132,Flowers,23,0.522727273,0.194915254
+Opuntia robusta,,2021,12/05/2021,132,Buds,5,0.106382979,
+Opuntia robusta,,2021,12/05/2021,132,Flowers,2,0.042553191,0.057142857
+Opuntia streptacantha,,2021,12/05/2021,132,Buds,57,1.727272727,
+Opuntia streptacantha,,2021,12/05/2021,132,Flowers,27,0.794117647,0.267326733
+Opuntia tomentosa,,2021,12/05/2021,132,Buds,95,2.065217391,
+Opuntia tomentosa,,2021,12/05/2021,132,Flowers,137,3.044444444,0.315668203
+Opuntia cantabrigiensis,,2021,26/05/2021,146,Buds,48,1.090909091,
+Opuntia cantabrigiensis,,2021,26/05/2021,146,Flowers,3,0.068181818,0.025423729
+Opuntia robusta,,2021,26/05/2021,146,Buds,14,0.291666667,
+Opuntia robusta,,2021,26/05/2021,146,Flowers,0,0,0
+Opuntia streptacantha,,2021,26/05/2021,146,Buds,8,0.235294118,
+Opuntia streptacantha,,2021,26/05/2021,146,Flowers,6,0.176470588,0.059405941
+Opuntia tomentosa,,2021,26/05/2021,146,Buds,10,0.217391304,
+Opuntia tomentosa,,2021,26/05/2021,146,Flowers,17,0.369565217,0.039170507
+Opuntia cantabrigiensis,,2021,02/06/2021,153,Buds,111,2.522727273,
+Opuntia cantabrigiensis,,2021,02/06/2021,153,Flowers,8,0.181818182,0.06779661
+Opuntia cantabrigiensis,,2021,02/06/2021,153,Unripe Ripe fruits ,636,14.45454545,
+Opuntia robusta,,2021,02/06/2021,153,Buds,16,0.340425532,
+Opuntia robusta,,2021,02/06/2021,153,Flowers,3,0.063829787,0.085714286
+Opuntia robusta,,2021,02/06/2021,153,Unripe Ripe fruits ,86,1.829787234,
+Opuntia streptacantha,,2021,02/06/2021,153,Buds,5,0.147058824,
+Opuntia streptacantha,,2021,02/06/2021,153,Flowers,2,0.058823529,0.01980198
+Opuntia streptacantha,,2021,02/06/2021,153,Unripe Ripe fruits ,1109,32.61764706,
+Opuntia tomentosa,,2021,02/06/2021,153,Buds,9,0.195652174,
+Opuntia tomentosa,,2021,02/06/2021,153,Flowers,5,0.108695652,0.011520737
+Opuntia tomentosa,,2021,02/06/2021,153,Unripe Ripe fruits ,3185,69.23913043,
+Opuntia cantabrigiensis,,2021,09/06/2021,160,Buds,75,1.704545455,
+Opuntia cantabrigiensis,,2021,09/06/2021,160,Flowers,19,0.431818182,0.161016949
+Opuntia robusta,,2021,09/06/2021,160,Buds,5,0.106382979,
+Opuntia robusta,,2021,09/06/2021,160,Flowers,11,0.234042553,0.314285714
+Opuntia streptacantha,,2021,09/06/2021,160,Buds,2,0.058823529,
+Opuntia streptacantha,,2021,09/06/2021,160,Flowers,1,0.029411765,0.00990099
+Opuntia tomentosa,,2021,09/06/2021,160,Buds,3,0.065217391,
+Opuntia tomentosa,,2021,09/06/2021,160,Flowers,3,0.065217391,0.006912442
+Opuntia cantabrigiensis,,2021,16/06/2021,167,Buds,2,0.045454545,
+Opuntia cantabrigiensis,,2021,16/06/2021,167,Flowers,38,0.176744186,0.322033898
+Opuntia robusta,,2021,16/06/2021,167,Buds,16,0.340425532,
+Opuntia robusta,,2021,16/06/2021,167,Flowers,6,0.127659574,0.171428571
+Opuntia streptacantha,,2021,16/06/2021,167,Buds,37,1.088235294,
+Opuntia streptacantha,,2021,16/06/2021,167,Flowers,7,0.205882353,0.069306931
+Opuntia tomentosa,,2021,16/06/2021,167,Buds,17,0.369565217,
+Opuntia tomentosa,,2021,16/06/2021,167,Flowers,12,0.260869565,0.02764977
+Opuntia cantabrigiensis,,2021,23/06/2021,174,Buds,4,0.090909091,
+Opuntia cantabrigiensis,,2021,23/06/2021,174,Flowers,4,0.090909091,0.033898305
+Opuntia cantabrigiensis,,2021,23/06/2021,174,Unripe Ripe fruits ,916,20.81818182,
+Opuntia cantabrigiensis,,2021,23/06/2021,174,Ripe fruits,708,0,0.965
+Opuntia robusta,,2021,23/06/2021,174,Buds,16,0.340425532,
+Opuntia robusta,,2021,23/06/2021,174,Flowers,6,0.127659574,0.171428571
+Opuntia robusta,,2021,23/06/2021,174,Unripe Ripe fruits ,901,19.17021277,
+Opuntia robusta,,2021,23/06/2021,174,Ripe fruits,9,0.191489362,0.642857143
+Opuntia streptacantha,,2021,23/06/2021,174,Buds,16,0.484848485,
+Opuntia streptacantha,,2021,23/06/2021,174,Flowers,5,0.147058824,0.04950495
+Opuntia streptacantha,,2021,23/06/2021,174,Unripe Ripe fruits ,612,18,
+Opuntia streptacantha,,2021,23/06/2021,174,Ripe fruits,2,0.058823529,0.027
+Opuntia tomentosa,,2021,23/06/2021,174,Buds,17,0.369565217,
+Opuntia tomentosa,,2021,23/06/2021,174,Flowers,11,0.239130435,0.025345622
+Opuntia tomentosa,,2021,23/06/2021,174,Unripe Ripe fruits ,2023,43.97826087,
+Opuntia cantabrigiensis,,2021,02/10/2021,275,Unripe Ripe fruits ,3,0.068181818,
+Opuntia cantabrigiensis,,2021,02/10/2021,275,Ripe fruits,25,0.568181818,0.034
+Opuntia robusta,,2021,02/10/2021,275,Unripe Ripe fruits ,0,0,
+Opuntia robusta,,2021,02/10/2021,275,Ripe fruits,5,0.106382979,0.357142857
+Opuntia streptacantha,,2021,02/10/2021,275,Unripe Ripe fruits ,20,0.588235294,
+Opuntia streptacantha,,2021,02/10/2021,275,Ripe fruits,64,1.882352941,0.865
+Opuntia tomentosa,,2021,02/10/2021,275,Unripe Ripe fruits ,29,0.644444444,
+Opuntia tomentosa,,2021,02/10/2021,275,Ripe fruits,670,15.58139535,0.965
+Opuntia cantabrigiensis,,2021,11/11/2021,315,Unripe Ripe fruits ,4,0.090909091,
+Opuntia cantabrigiensis,,2021,11/11/2021,315,Ripe fruits,1,0.022727273,0.001
+Opuntia robusta,,2021,11/11/2021,315,Ripe fruits,0,0,0
+Opuntia streptacantha,,2021,11/11/2021,315,Unripe Ripe fruits ,11,0.323529412,
+Opuntia streptacantha,,2021,11/11/2021,315,Ripe fruits,8,1.882352941,0.108
+Opuntia tomentosa,,2021,11/11/2021,315,Unripe Ripe fruits ,10,0.217391304,
+Opuntia tomentosa,,2021,11/11/2021,315,Ripe fruits,24,0.52173913,0.035
+Opuntia robustaf,f,2022,18/02/2022,49,Buds,0,0,0
+Opuntia robustam,m,2022,18/02/2022,49,Buds,0,0,0
+Opuntia robustaf,f,2022,18/02/2022,49,Flowers,0,0,0
+Opuntia robustam,m,2022,18/02/2022,49,Flowers,0,0,0
+Opuntia robustaf,f,2022,18/02/2022,49,Ripe fruits,0,0,0
+Opuntia robustam,m,2022,18/02/2022,49,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,18/03/2022,77,Buds,397,9.925,0.647634584
+Opuntia robustam,m,2022,18/03/2022,77,Buds,479,12.60526316,0.558926488
+Opuntia robustaf,f,2022,18/03/2022,77,Flowers,93,2.325,0.399141631
+Opuntia robustam,m,2022,18/03/2022,77,Flowers,101,2.657894737,0.318611987
+Opuntia robustaf,f,2022,18/03/2022,77,Ripe fruits,0,0,0
+Opuntia robustam,m,2022,18/03/2022,77,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,03/04/2022,93,Buds,158,4.157894737,0.257748777
+Opuntia robustam,m,2022,03/04/2022,93,Buds,292,7.487179487,0.340723454
+Opuntia robustaf,f,2022,03/04/2022,93,Flowers,91,2.394736842,0.39055794
+Opuntia robustam,m,2022,03/04/2022,93,Flowers,131,3.275,0.413249211
+Opuntia robustaf,f,2022,03/04/2022,93,Ripe fruits,13,0.342105263,0.035616438
+Opuntia robustam,m,2022,03/04/2022,93,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,16/04/2022,106,Buds,0,0,0
+Opuntia robustam,m,2022,16/04/2022,106,Buds,0,0,0
+Opuntia robustaf,f,2022,16/04/2022,106,Flowers,21,0.552631579,0.090128755
+Opuntia robustam,m,2022,16/04/2022,106,Flowers,43,1.075,0.135646688
+Opuntia robustaf,f,2022,16/04/2022,106,Ripe fruits,0,0,0
+Opuntia robustam,m,2022,16/04/2022,106,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,20/04/2022,110,Buds,31,1.823529412,0.050570962
+Opuntia robustam,m,2022,20/04/2022,110,Buds,67,2.791666667,0.078179697
+Opuntia robustaf,f,2022,20/04/2022,110,Flowers,18,0.473684211,0.077253219
+Opuntia robustam,m,2022,20/04/2022,110,Flowers,31,0.775,0.097791798
+Opuntia robustaf,f,2022,20/04/2022,110,Ripe fruits,0,0,0
+Opuntia robustam,m,2022,20/04/2022,110,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,25/04/2022,115,Buds,0,0,0
+Opuntia robustam,m,2022,25/04/2022,115,Buds,0,0,0
+Opuntia robustaf,f,2022,25/04/2022,115,Flowers,5,0.131578947,0.021459227
+Opuntia robustam,m,2022,25/04/2022,115,Flowers,6,0.15,0.018927445
+Opuntia robustaf,f,2022,25/04/2022,115,Ripe fruits,0,0,0
+Opuntia robustam,m,2022,25/04/2022,115,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,03/05/2022,123,Buds,15,0.882352941,0.024469821
+Opuntia robustam,m,2022,03/05/2022,123,Buds,7,0.466666667,0.008168028
+Opuntia robustaf,f,2022,03/05/2022,123,Flowers,4,0.235294118,0.017167382
+Opuntia robustam,m,2022,03/05/2022,123,Flowers,2,0.133333333,0.006309148
+Opuntia robustaf,f,2022,03/05/2022,123,Ripe fruits,75,5.769230769,0.205479452
+Opuntia robustam,m,2022,03/05/2022,123,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,25/05/2022,145,Buds,12,0.666666667,0.019575856
+Opuntia robustam,m,2022,25/05/2022,145,Buds,12,0.666666667,0.014002334
+Opuntia robustaf,f,2022,25/05/2022,145,Flowers,1,0.055555556,0.004291845
+Opuntia robustam,m,2022,25/05/2022,145,Flowers,3,0.166666667,0.009463722
+Opuntia robustaf,f,2022,25/05/2022,145,Ripe fruits,76,4.222222222,0.208219178
+Opuntia robustam,m,2022,25/05/2022,145,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,26/06/2022,177,Buds,0,0,0
+Opuntia robustam,m,2022,26/06/2022,177,Buds,0,0,0
+Opuntia robustaf,f,2022,26/06/2022,177,Flowers,0,0,0
+Opuntia robustam,m,2022,26/06/2022,177,Flowers,0,0,0
+Opuntia robustaf,f,2022,26/06/2022,177,Ripe fruits,189,5.4,0.517808219
+Opuntia robustam,m,2022,26/06/2022,177,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,10/08/2022,222,Buds,0,0,0
+Opuntia robustam,m,2022,10/08/2022,222,Buds,0,0,0
+Opuntia robustaf,f,2022,10/08/2022,222,Flowers,0,0,0
+Opuntia robustam,m,2022,10/08/2022,222,Flowers,0,0,0
+Opuntia robustaf,f,2022,10/08/2022,222,Ripe fruits,12,5.4,0.032876712
+Opuntia robustam,m,2022,10/08/2022,222,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,h,2022,18/03/2022,77,Buds,479,12.28205128,0.406966865
+Opuntia cantabrigiensis,h,2022,18/03/2022,77,Flowers,0,0,0
+Opuntia cantabrigiensis,h,2022,18/03/2022,77,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,h,2022,03/04/2022,93,Buds,313,8.459459459,0.265930331
+Opuntia cantabrigiensis,h,2022,03/04/2022,93,Flowers,23,0.605263158,0.087
+Opuntia cantabrigiensis,h,2022,03/04/2022,93,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,h,2022,16/04/2022,106,Buds,0,0,0
+Opuntia cantabrigiensis,h,2022,16/04/2022,106,Flowers,91,2.394736842,0.343
+Opuntia cantabrigiensis,h,2022,16/04/2022,106,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,h,2022,20/04/2022,110,Buds,76,5.428571429,0.064570943
+Opuntia cantabrigiensis,h,2022,20/04/2022,110,Flowers,64,1.105263158,0.242
+Opuntia cantabrigiensis,h,2022,20/04/2022,110,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,h,2022,25/04/2022,115,Buds,0,0,0
+Opuntia cantabrigiensis,h,2022,25/04/2022,115,Flowers,38,0.842105263,0.143
+Opuntia cantabrigiensis,h,2022,25/04/2022,115,Ripe fruits,0,0,0
+Opuntia cantabrigiensis,h,2022,03/05/2022,123,Buds,144,6.545454545,0.122344945
+Opuntia cantabrigiensis,h,2022,03/05/2022,123,Flowers,30,0.5,0.113
+Opuntia cantabrigiensis,h,2022,03/05/2022,123,Ripe fruits,62,2.952380952,0.13362069
+Opuntia cantabrigiensis,h,2022,25/05/2022,145,Buds,150,6.818181818,0.127442651
+Opuntia cantabrigiensis,h,2022,25/05/2022,145,Flowers,19,0.636363636,0.072
+Opuntia cantabrigiensis,h,2022,25/05/2022,145,Ripe fruits,72,3.272727273,0.155172414
+Opuntia cantabrigiensis,h,2022,26/06/2022,177,Buds,15,0.428571429,0.012744265
+Opuntia cantabrigiensis,h,2022,26/06/2022,177,Flowers,0,0.314285714,0
+Opuntia cantabrigiensis,h,2022,26/06/2022,177,Ripe fruits,232,6.628571429,0.5
+Opuntia cantabrigiensis,h,2022,10/08/2022,222,Buds,0,0,0
+Opuntia cantabrigiensis,h,2022,10/08/2022,222,Flowers,0,0,0
+Opuntia cantabrigiensis,h,2022,10/08/2022,222,Ripe fruits,98,2.8,0.211206897
+Opuntia streptacantha,h,2022,18/03/2022,77,Buds,211,6.205882353,0.114054054
+Opuntia streptacantha,h,2022,18/03/2022,77,Flowers,12,0.352941176,0.019543974
+Opuntia streptacantha,h,2022,18/03/2022,77,Ripe fruits,0,0,0
+Opuntia streptacantha,h,2022,03/04/2022,93,Buds,537,16.27272727,0.29027027
+Opuntia streptacantha,h,2022,03/04/2022,93,Flowers,18,0,0.029315961
+Opuntia streptacantha,h,2022,03/04/2022,93,Ripe fruits,0,0,0
+Opuntia streptacantha,h,2022,16/04/2022,106,Buds,0,0,0
+Opuntia streptacantha,h,2022,16/04/2022,106,Flowers,124,3.647058824,0.201954397
+Opuntia streptacantha,h,2022,16/04/2022,106,Ripe fruits,0,0,0
+Opuntia streptacantha,h,2022,20/04/2022,110,Buds,445,19.34782609,0.240540541
+Opuntia streptacantha,h,2022,20/04/2022,110,Flowers,179,5.264705882,0.291530945
+Opuntia streptacantha,h,2022,20/04/2022,110,Ripe fruits,0,0,0
+Opuntia streptacantha,h,2022,25/04/2022,115,Buds,0,0,0
+Opuntia streptacantha,h,2022,25/04/2022,115,Flowers,126,3.705882353,0.205211726
+Opuntia streptacantha,h,2022,25/04/2022,115,Ripe fruits,0,0,0
+Opuntia streptacantha,h,2022,03/05/2022,123,Buds,389,12.5483871,0.21027027
+Opuntia streptacantha,h,2022,03/05/2022,123,Flowers,83,2.677419355,0.135179153
+Opuntia streptacantha,h,2022,03/05/2022,123,Ripe fruits,413,14.75,0.246273107
+Opuntia streptacantha,h,2022,03/05/2022,145,Buds,251,8.096774194,0.135675676
+Opuntia streptacantha,h,2022,25/05/2022,145,Flowers,67,2.161290323,0.109120521
+Opuntia streptacantha,h,2022,25/05/2022,145,Ripe fruits,524,16.90322581,0.312462731
+Opuntia streptacantha,h,2022,26/06/2022,177,Buds,7,0.205882353,0.003783784
+Opuntia streptacantha,h,2022,26/06/2022,177,Flowers,5,0.147058824,0.008143322
+Opuntia streptacantha,h,2022,26/06/2022,177,Ripe fruits,647,19.02941176,0.38580799
+Opuntia streptacantha,h,2022,10/08/2022,222,Buds,10,0.294117647,0.005405405
+Opuntia streptacantha,h,2022,10/08/2022,222,Flowers,0,0,0
+Opuntia streptacantha,h,2022,10/08/2022,222,Ripe fruits,75,2.205882353,0.044722719
+Opuntia tomentosa,h,2022,18/03/2022,77,Buds,73,1.622222222,0.013683224
+Opuntia tomentosa,h,2022,18/03/2022,77,Flowers,0,0,0
+Opuntia tomentosa,h,2022,18/03/2022,77,Ripe fruits,0,0,0
+Opuntia tomentosa,h,2022,03/04/2022,93,Buds,1135,25.22222222,0.212746017
+Opuntia tomentosa,h,2022,03/04/2022,93,Flowers,0,0,0
+Opuntia tomentosa,h,2022,03/04/2022,93,Ripe fruits,0,0,0
+Opuntia tomentosa,h,2022,16/04/2022,106,Buds,0,0,0
+Opuntia tomentosa,h,2022,16/04/2022,106,Flowers,33,0.733333333,0.023
+Opuntia tomentosa,h,2022,16/04/2022,106,Ripe fruits,0,0,0
+Opuntia tomentosa,h,2022,20/04/2022,110,Buds,1825,57.03125,0.3420806
+Opuntia tomentosa,h,2022,20/04/2022,110,Flowers,68,68,0.0248
+Opuntia tomentosa,h,2022,20/04/2022,110,Ripe fruits,0,0,0
+Opuntia tomentosa,h,2022,25/04/2022,115,Buds,0,0,0
+Opuntia tomentosa,h,2022,25/04/2022,115,Flowers,466,10.35555556,0.327
+Opuntia tomentosa,h,2022,25/04/2022,115,Ripe fruits,0,0,0
+Opuntia tomentosa,h,2022,03/05/2022,123,Buds,1155,23.1,0.216494845
+Opuntia tomentosa,h,2022,03/05/2022,123,Flowers,449,8.98,0.315
+Opuntia tomentosa,h,2022,03/05/2022,123,Ripe fruits,522,10.65306122,0.086295255
+Opuntia tomentosa,h,2022,03/05/2022,145,Buds,1142,24.82608696,0.214058107
+Opuntia tomentosa,h,2022,25/05/2022,145,Flowers,404,9.52173913,0.284
+Opuntia tomentosa,h,2022,25/05/2022,145,Ripe fruits,603,13.10869565,0.099685898
+Opuntia tomentosa,h,2022,26/06/2022,177,Buds,5,0.102040816,0.000937207
+Opuntia tomentosa,h,2022,26/06/2022,177,Flowers,4,0.081632653,0.003
+Opuntia tomentosa,h,2022,26/06/2022,177,Ripe fruits,2744,56,0.453628699
+Opuntia tomentosa,h,2022,10/08/2022,222,Buds,0,0,0
+Opuntia tomentosa,h,2022,10/08/2022,222,Flowers,0,0,0
+Opuntia tomentosa,h,2022,10/08/2022,222,Ripe fruits,1971,41.0625,0.325838982
+Opuntia cantabrigiensis,h,2022,02/09/2022,245,Ripe fruits,0,0,0
+Opuntia streptacantha,h,2022,02/09/2022,245,Ripe fruits,18,,0.010733453
+Opuntia tomentosa,h,2022,02/09/2022,245,Ripe fruits,169,,0.027938502
+Opuntia streptacantha,h,2022,13/10/2022,286,Ripe fruits,0,,0
+Opuntia tomentosa,h,2022,13/10/2022,245,Ripe fruits,40,,0.006612663
+Opuntia streptacantha,,2018,11/11/2018,315,Ripe fruits,0,0,0
+Opuntia robustaf,f,2022,13/10/2022,286,Ripe fruits,0,0,0
+Opuntia streptacantha,,2021,15/11/2021,319,Ripe fruits,0,,0
+Opuntia tomentosa,,2021,15/11/2021,319,Ripe fruits,0,0,0
+Opuntia streptacantha,,2022,18/02/2022,49,Flowers,0,0,0
+Opuntia cantabrigiensis,,2023,23/02/2023,54,Flowers,0,,
+Opuntia cantabrigiensis,,2023,27/03/2023,86,Flowers,40,,
+Opuntia cantabrigiensis,,2023,06/04/2023,96,Flowers,112,,
+Opuntia cantabrigiensis,,2023,21/04/2023,111,Flowers,67,,
+Opuntia cantabrigiensis,,2023,14/05/2023,134,Flowers,9,,
+Opuntia cantabrigiensis,,2023,25/05/2023,145,Flowers,8,,
+Opuntia robusta,,2023,23/02/2023,54,Flowers,6,,
+Opuntia robusta,,2023,27/03/2023,86,Flowers,543,,
+Opuntia robusta,,2023,06/04/2023,96,Flowers,427,,
+Opuntia robusta,,2023,21/04/2023,111,Flowers,19,,
+Opuntia robusta,,2023,14/05/2023,134,Flowers,10,,
+Opuntia robusta,,2023,25/05/2023,145,Flowers,33,,
+Opuntia streptacantha,,2023,23/02/2023,54,Flowers,0,,
+Opuntia streptacantha,,2023,27/03/2023,86,Flowers,32,,
+Opuntia streptacantha,,2023,06/04/2023,96,Flowers,1049,,
+Opuntia streptacantha,,2023,21/04/2023,111,Flowers,393,,
+Opuntia streptacantha,,2023,14/05/2023,134,Flowers,150,,
+Opuntia streptacantha,,2023,25/05/2023,145,Flowers,98,,
+Opuntia tomentosa,,2023,23/02/2023,54,Flowers,0,,
+Opuntia tomentosa,,2023,27/03/2023,86,Flowers,0,,
+Opuntia tomentosa,,2023,06/04/2023,96,Flowers,18,,
+Opuntia tomentosa,,2023,21/04/2023,111,Flowers,1059,,
+Opuntia tomentosa,,2023,14/05/2023,134,Flowers,127,,
+Opuntia tomentosa,,2023,25/05/2023,145,Flowers,51,,
